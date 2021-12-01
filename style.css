@@ -20,3 +20,15 @@ img {
     list-style-type: square;
     font: 14px tahoma;
 }
+
+/*estilo para la lista-viñeta circulo*/
+.vi_2 {
+    list-style-type: circle;
+    font: 14px tahoma;
+}
+
+/*estilo para la lista-viñeta circulo*/
+.vi_3 {
+    list-style-type: georgian;
+    font: 14px tahoma;
+}
