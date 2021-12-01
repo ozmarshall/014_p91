@@ -1,0 +1,22 @@
+/*estilo para el fonde de la dicumento*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+/*estilo para los seccion*/
+section {
+    background: #ccc;
+    max-width: 200px;
+}
+
+/*estilo para la imagen*/
+img {
+    width: 200px;
+}
+
+/*estilo para la lista-viñeta cuadrada*/
+.vi_1 {
+    list-style-type: square;
+    font: 14px tahoma;
+}
